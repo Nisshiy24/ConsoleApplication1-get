@@ -5,7 +5,11 @@
 
 int main()
 {
+
+    std::cout << "Hello conflict!\n";
+
     std::cout << "Hello master!\n";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
