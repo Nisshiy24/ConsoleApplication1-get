@@ -6,9 +6,9 @@
 int main()
 {
 
-    std::cout << "Hello conflict!\n";
+    std::cout << "Hello Localconflict!\n";
 
-    std::cout << "Hello master!\n";
+    std::cout << "Hello Localmaster!\n";
 
 }
 
